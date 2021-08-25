@@ -22,5 +22,3 @@ The core algorithm and custom code are listed below, mat-file could be found in 
 10. Replay sequence significance testing with shuffling was performed with 'ReplaySeq.m'
 
 11. PCA/ICA framework was performed with 'pca.m', 'fastica.m'
-
-Cite the code: [![DOI](https://zenodo.org/badge/399469243.svg)](https://zenodo.org/badge/latestdoi/399469243)
