@@ -1,4 +1,4 @@
-Cite the code (DOI: 10.5281/zenodo.5250785)
+Cite the code (DOI: 10.5281/zenodo.5250785) --> https://doi.org/10.5281/zenodo.5250785
 
 
 The core algorithm and custom code are listed below, mat-file could be found in the same folder. 
