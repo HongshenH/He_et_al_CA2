@@ -1,5 +1,3 @@
-Cite the code: [![DOI](https://zenodo.org/badge/399469243.svg)](https://zenodo.org/badge/latestdoi/399469243)
-
 
 The core algorithm and custom code are listed below, mat-file could be found in the same folder. 
 
